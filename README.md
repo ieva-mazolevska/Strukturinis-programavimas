@@ -1,0 +1,2 @@
+# Strukturinis-programavimas
+Struktūrinis programavimas
